@@ -6,9 +6,9 @@
 
 - Set up visual studio according to the official site
 
-![](img\img1.png)
+![](img/img1.png)
 
-![](img\img2.png)
+![](img/img2.png)
 
 > - .Net framework: third-party & plugins backend services/tooling
 > 
